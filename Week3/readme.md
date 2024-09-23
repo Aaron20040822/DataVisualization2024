@@ -14,4 +14,9 @@
 
 ![image](https://github.com/user-attachments/assets/10f58d28-ce2a-4554-9b0d-eb57933c922a)
 
-## Lab 3
+## Lab 3 How To Handle CSV File?
+
+### Read Excel File by Notepad
+
+![image](https://github.com/user-attachments/assets/2116d4f0-97ab-4eec-a818-15209c439d3b)
+
