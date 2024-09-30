@@ -34,3 +34,8 @@ English: A **software project** involves the development, design, testing, and m
 
 Traditional Chinese: **軟體專案**涉及軟體應用程式或系統的開發、設計、測試和維護。它包括需求收集、規劃、編碼和部署等階段，旨在交付滿足用戶需求和商業目標的產品。
 ![image](https://github.com/user-attachments/assets/b3abd69b-7bc4-484e-86f1-37a222253a65)
+
+## Others
+![image](https://github.com/user-attachments/assets/5755f293-9699-4133-9edd-73f78c34f0dc)
+
+![image](https://github.com/user-attachments/assets/9d28aaee-4053-430f-a41d-b460f93c97c4)
