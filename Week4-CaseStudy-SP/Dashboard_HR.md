@@ -10,3 +10,5 @@
 
 ## B. Examples of Dashboard
 ![image](https://github.com/user-attachments/assets/07bcf27f-025b-4261-8026-4cc10a60cbd5)
+
+## C. Your Show Time
