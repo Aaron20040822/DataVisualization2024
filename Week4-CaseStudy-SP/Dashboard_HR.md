@@ -1,0 +1,6 @@
+# Dashboard Application for Human Resources
+## A. Please find out 2 jobs from 104 web site with the reasons you choose.
+### 1.《IT-01》SAP系統專案工程師/主任, https://www.104.com.tw/job/8a1jf?jobsource=hotjob_chr
+![image](https://github.com/user-attachments/assets/9caf0017-a6ed-40bf-9af0-36b16c75367a)
+### 2. 應用測試工程師, https://www.104.com.tw/job/6e2cf?jobsource=index_s
+![image](https://github.com/user-attachments/assets/a412f98a-6ecd-4df0-b924-858dfcc5b12e)
