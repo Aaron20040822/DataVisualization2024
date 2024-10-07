@@ -12,3 +12,4 @@
 ![image](https://github.com/user-attachments/assets/07bcf27f-025b-4261-8026-4cc10a60cbd5)
 
 ## C. Your Show Time
+![image](https://github.com/user-attachments/assets/2b97b9cb-73a0-4f37-9e48-3f8d9d090f2a)
