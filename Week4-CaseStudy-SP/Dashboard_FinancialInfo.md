@@ -83,4 +83,5 @@ Metaphor: Think of these ratios as checking your emergency savings over time. Th
 ![image](https://github.com/user-attachments/assets/560cc705-4d1d-4954-96a7-54dbae4a4eea)
 
 ### 3. Practice
+![image](https://github.com/user-attachments/assets/64ed6b9b-247f-4947-a529-5b68883e24ae)
 
