@@ -1,6 +1,6 @@
 # Dashboard Application for Financial Information
 
-## A. Termelogolies
+## A. Terminology
 
 ## 1. Income Statement Waterfall
 An Income Statement Waterfall is a visual representation of how different components of an income statement contribute to the overall profit or loss of a business, step by step. It breaks down financial results into individual building blocks to show how each part (revenue, costs, expenses) adds up or subtracts from the final net income.
