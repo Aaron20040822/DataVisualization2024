@@ -6,6 +6,8 @@
 An Income Statement Waterfall is a visual representation of how different components of an income statement contribute to the overall profit or loss of a business, step by step. It breaks down financial results into individual building blocks to show how each part (revenue, costs, expenses) adds up or subtracts from the final net income.
 
 Imagine this as watching water flow down a series of waterfalls. Each step in the waterfall represents a key element in the income statement, like revenue (starting point), cost of goods sold (next step, reducing the amount), operating expenses (another step), and finally the net income (the final pool of water at the bottom). This helps people easily understand where the most significant gains or losses happen.
+![image](https://github.com/user-attachments/assets/7d6d968e-385b-45cf-840f-2e46d78cb935)
+![image](https://github.com/user-attachments/assets/55cff18f-253e-4b39-b46b-50de35ac2208)
 
 ## 2. Current Ratio
 ### The Current Ratio is a financial metric used to evaluate a company's ability to pay its short-term obligations with its short-term assets. It's a key measure of liquidity, showing whether a company has enough resources (like cash, inventory, and receivables) to cover its liabilities that are due within a year.
