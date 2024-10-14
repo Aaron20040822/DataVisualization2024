@@ -73,3 +73,14 @@ Current Ratio Trend: Over the five-year period, a stable or increasing current r
 Quick Ratio Trend: A steady or rising quick ratio would indicate that the company has sufficient liquid assets (cash, receivables) to meet short-term liabilities, without relying on inventory. If the ratio declines, it might suggest the company is becoming more reliant on inventory or slower assets to pay off debts.
 
 Metaphor: Think of these ratios as checking your emergency savings over time. The current ratio is like seeing how much total savings you have (including assets you might sell, like a car or furniture). The quick ratio is like checking only the cash in your wallet or bank account—something you can use immediately. Over five years, tracking how well you're maintaining these savings tells you how financially secure you are.
+
+## B. Dashboard
+
+### 1. Layout
+![image](https://github.com/user-attachments/assets/654e0380-0be4-4139-bea4-140dff10492e)
+
+### 2. Result
+![image](https://github.com/user-attachments/assets/560cc705-4d1d-4954-96a7-54dbae4a4eea)
+
+### 3. Practice
+
