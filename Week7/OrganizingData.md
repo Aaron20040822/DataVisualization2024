@@ -10,3 +10,6 @@
 
 ###SQL? SQL (Structured Query Language) is a standard programming language used to manage and manipulate relational databases. 
 ![image](https://github.com/user-attachments/assets/d3159ca6-b6a7-450a-aed0-c5f60f5b7fab)
+
+### Differences between Excel and Access?
+![image](https://github.com/user-attachments/assets/3bc5ed53-585a-4f3c-ab72-df01aa27c4aa)
