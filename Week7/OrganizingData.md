@@ -7,3 +7,6 @@
 
 ### Database? A database is an organized collection of structured information, typically stored electronically, that allows for efficient storage, retrieval, and management of data. 
 ![image](https://github.com/user-attachments/assets/fec3cf41-8774-4bd9-8da3-9cc78e365267)
+
+###SQL? SQL (Structured Query Language) is a standard programming language used to manage and manipulate relational databases. 
+![image](https://github.com/user-attachments/assets/d3159ca6-b6a7-450a-aed0-c5f60f5b7fab)
