@@ -8,3 +8,24 @@
 
 ![image](https://github.com/user-attachments/assets/9e00c308-92ce-4f1f-b266-22e1a6ec04f5)
 
+## B. Applications of Power Query
+
+### Classic Applications of Power Query:
+
+Data Transformation: Power Query allows users to clean and reshape data effortlessly by filtering, splitting columns, and removing duplicates—ideal for preparing data for analysis.
+
+Data Integration: It combines data from multiple sources, such as databases, Excel files, and web pages, making it easy to consolidate information in one place.
+
+Automating Data Updates: With Power Query, refreshable connections enable automatic data updates, saving time on repetitive tasks.
+
+Using Power Query simplifies complex data tasks, making analysis quicker and more accurate while reducing manual errors.
+
+### Power Query 的經典應用：
+
+數據轉換：Power Query 能讓用戶輕鬆清理和重新整理數據，例如篩選、拆分欄位及移除重複項目，非常適合用於數據分析前的準備工作。
+
+數據整合：它能將來自多種來源（如資料庫、Excel 文件、網頁等）的數據合併，方便將資訊集中於一處。
+
+自動更新數據：使用 Power Query，可以透過可刷新連接自動更新數據，節省重複工作所需的時間。
+
+使用 Power Query 簡化了複雜的數據任務，加速分析過程並提升準確性，同時降低了手動錯誤的風險。
