@@ -36,3 +36,9 @@ Using Power Query simplifies complex data tasks, making analysis quicker and mor
 
 ### 2. Data Merging
 ![image](https://github.com/user-attachments/assets/58679693-ded0-4566-97ad-010d337c1261)
+
+### 3. The GUI of power Query
+![image](https://github.com/user-attachments/assets/f7c17284-4511-4ec5-89eb-e5a2203e7a9b)
+
+### 4. Pivot Table
+![image](https://github.com/user-attachments/assets/d6bbd120-aecc-4bb9-aab6-cf2121031465)
