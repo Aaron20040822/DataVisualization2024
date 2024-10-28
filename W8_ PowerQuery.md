@@ -42,3 +42,7 @@ Using Power Query simplifies complex data tasks, making analysis quicker and mor
 
 ### 4. Pivot Table
 ![image](https://github.com/user-attachments/assets/d6bbd120-aecc-4bb9-aab6-cf2121031465)
+
+### 5. Data Table Linking, Merging, and Appending
+![image](https://github.com/user-attachments/assets/7a495dc9-a09e-4a4e-b794-24dbd4f111a4)
+
