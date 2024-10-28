@@ -46,3 +46,5 @@ Using Power Query simplifies complex data tasks, making analysis quicker and mor
 ### 5. Data Table Linking, Merging, and Appending
 ![image](https://github.com/user-attachments/assets/7a495dc9-a09e-4a4e-b794-24dbd4f111a4)
 
+### 6. Files Merging and Linking 
+![image](https://github.com/user-attachments/assets/60187337-c920-4f37-bbbd-6eed478fa006)
