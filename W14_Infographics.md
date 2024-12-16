@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/3ae084b7-2792-46c0-ba5b-ea7745ec7f74)
 
 ## Lab 3: Creating Custom Infographic Elements with Plotly
-![image](https://github.com/user-attachments/assets/8d5a47d4-70b6-4421-b55e-dae38bf226f2)
+![image](https://github.com/user-attachments/assets/ce32893b-4163-4d9c-8c65-64db924a3375)
 
 ## Lab 4: Designing a Complete Infographic with Multiple Charts (i.e., Dashboard)
 ![image](https://github.com/user-attachments/assets/340dfec2-97e1-4dff-94de-e28d69e04ad4)
